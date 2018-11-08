@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfiRuTest</string>
+    <string name="login_string">Зайдите под своим аккаунтом ВК</string>
+    <string name="login">Логин</string>
+    <string name="my_friends">Мои друзья</string>
+    <string name="error_friends_request">Произошла ошибка при загрузке друзей</string>
+    <string name="logout">Выйти</string>
+    <string name="error_photo_request">Произошла ошибка при загрузке фото</string>
+    <string name="error_login">Не получилось зайти в аккаунт</string>
+</resources>
